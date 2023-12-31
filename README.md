@@ -19,8 +19,8 @@ This Python script utilizes Tesseract OCR to extract text from images (supports 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/repo_name.git
-    cd repo_name
+    git clone https://github.com/ramabhadrarao/Image-Text-Extractor.git
+    cd Image-Text-Extractor
     ```
 
 2. Install required libraries:
